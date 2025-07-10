@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import hide from '../assets/hide.png'
 import sort from '../assets/sort.png'
-import filter from '../assets/filter.png'
+import filter from '../assets/Filter.png'
 import cell from '../assets/cellview.png'
 import importt from '../assets/import.png'
 import exportt from '../assets/export.png'
