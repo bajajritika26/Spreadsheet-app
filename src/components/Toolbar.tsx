@@ -43,9 +43,9 @@ const Toolbar: React.FC = () => {
       </div>
       <div className="flex justify-between items-center px-4 py-2 border-b border-gray-200 bg-white">
         {/* Left section */}
-        <div className="flex items-center gap-4 text-sm text-gray-900 ">
+        <div className="flex items-center gap-4 text-sm text-gray-900 space-x-2">
 
-          <button className="flex items-center gap-1 hover:text-black border-r pr-3" onClick={() => {
+          <button className="flex items-center gap-1 hover:text-black border-r pr-4" onClick={() => {
             showSnackbar("Toolbar clicked", "info");
             console.log("Toolbar clicked");
           }}>
