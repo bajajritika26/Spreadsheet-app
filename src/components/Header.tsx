@@ -70,7 +70,7 @@ const Header = () => {
             <img
               src={search}
               alt="search"
-              className="absolute left-6 top-1/2 transform -translate-y-1/2 w-4 h-4 pointer-events-none"
+              className="absolute mt-2 left-6 top-1/2 transform -translate-y-1/2 w-4 h-4 pointer-events-none"
             />
           </div>
 
