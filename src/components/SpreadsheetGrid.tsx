@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import link from '../assets/Link.png'
-import refresh from '../assets/Refresh.png'
+import refresh from '../assets/refresh.png'
 import newaction from '../assets/newaction.png'
 import threedots from '../assets/threedots.png'
 import briefcase from '../assets/Briefcase.png'
